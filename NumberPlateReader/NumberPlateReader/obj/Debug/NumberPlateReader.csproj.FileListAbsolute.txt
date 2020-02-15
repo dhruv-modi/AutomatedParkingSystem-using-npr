@@ -1,0 +1,11 @@
+D:\dhruv_tut\NumberPlateReader\NumberPlateReader\obj\Debug\NumberPlateReader.Form1.resources
+D:\dhruv_tut\NumberPlateReader\NumberPlateReader\obj\Debug\NumberPlateReader.Form2.resources
+D:\dhruv_tut\NumberPlateReader\NumberPlateReader\obj\Debug\NumberPlateReader.Properties.Resources.resources
+D:\dhruv_tut\NumberPlateReader\NumberPlateReader\obj\Debug\NumberPlateReader.csproj.GenerateResource.Cache
+D:\dhruv_tut\NumberPlateReader\NumberPlateReader\bin\Debug\NumberPlateReader.exe.config
+D:\dhruv_tut\NumberPlateReader\NumberPlateReader\bin\Debug\NumberPlateReader.exe
+D:\dhruv_tut\NumberPlateReader\NumberPlateReader\bin\Debug\NumberPlateReader.pdb
+D:\dhruv_tut\NumberPlateReader\NumberPlateReader\obj\Debug\NumberPlateReader.exe
+D:\dhruv_tut\NumberPlateReader\NumberPlateReader\obj\Debug\NumberPlateReader.pdb
+D:\dhruv_tut\NumberPlateReader\NumberPlateReader\obj\Debug\NumberPlateReader.csprojResolveAssemblyReference.cache
+D:\dhruv_tut\NumberPlateReader\NumberPlateReader\obj\Debug\NumberPlateReader.Login.resources
